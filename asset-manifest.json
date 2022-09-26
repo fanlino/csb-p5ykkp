@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://fanlino.github.io/csb-p5ykkp/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://fanlino.github.io/csb-p5ykkp/static/js/main.8cf0ded0.chunk.js",
+    "main.js.map": "https://fanlino.github.io/csb-p5ykkp/static/js/main.8cf0ded0.chunk.js.map",
+    "runtime-main.js": "https://fanlino.github.io/csb-p5ykkp/static/js/runtime-main.50eca794.js",
+    "runtime-main.js.map": "https://fanlino.github.io/csb-p5ykkp/static/js/runtime-main.50eca794.js.map",
+    "static/js/2.a4daf67f.chunk.js": "https://fanlino.github.io/csb-p5ykkp/static/js/2.a4daf67f.chunk.js",
+    "static/js/2.a4daf67f.chunk.js.map": "https://fanlino.github.io/csb-p5ykkp/static/js/2.a4daf67f.chunk.js.map",
+    "index.html": "https://fanlino.github.io/csb-p5ykkp/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://fanlino.github.io/csb-p5ykkp/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.a4daf67f.chunk.js.LICENSE.txt": "https://fanlino.github.io/csb-p5ykkp/static/js/2.a4daf67f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50eca794.js",
+    "static/js/2.a4daf67f.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.8cf0ded0.chunk.js"
+  ]
+}
